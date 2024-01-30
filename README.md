@@ -10,4 +10,4 @@
 **Position Title:** Student  
 **Course Webpage:** [IDS2024S](www.cdslab.org/IDS2024S)  
 **Photo:**   
-![A photo of Brian](BrianBovee.jpg)  
+![A photo of Brian]()  

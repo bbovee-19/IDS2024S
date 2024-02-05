@@ -18,3 +18,10 @@ This repository contains my homework, quizzes, and virtually every effort that I
 + [quiz](./quiz): This directory contains all my quiz submissions, each of which is a folder properly named with quiz number, containing the quiz submission.  
 + [exam](./exam): This directory contains all my exam submissions, each of which is a folder properly named with exam name or number, containing the exam submission.  
  
+> I fear not the man who has practiced 10,000 kicks once, but I fear the man who has practiced one kick 10,000 times.  
+> Bruce Lee  
+
+
+For questions and troubleshooting, please contact:   
+Brian Bovee  
+bab8205@mavs.uta.edu  

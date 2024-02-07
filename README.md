@@ -24,4 +24,6 @@ This repository contains my homework, quizzes, and virtually every effort that I
 
 For questions and troubleshooting, please contact:   
 Brian Bovee  
-bab8205@mavs.uta.edu  
+bab8205@mavs.uta.edu
+
+This is a message from laptop command line.

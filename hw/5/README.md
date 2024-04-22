@@ -3,4 +3,8 @@
 **3** The two major types of data are quantitative and qualitative. An example of quantitative data would be anything represented in numbers, like the number of people in the U.S. who smoke. An example of qualitative data would be sorting the number of smokers in the U.S. into age groups. While we would be counting how many are in each age range, we're still sorting them by a category of sorts. 
 **4** A common name for qualitative data is categorical data.  
 **5** An example of ordered data would be keeping track of weather patterns through out the year. Whatever month you start at, you have to go through the proper sequence of months. Otherwise the data doesn't make sense. An example of unordered data would be something like animals. There isn't any intrinsic order to sorting animals.   
-**6**  
+**6**  I'd say that both the month and day are discrete and ordered. Location is categorical. Station ID is categorical and discrete. And temperture is continuous.  
+**7** 
+**8** 
+**9**
+**10** The best kind of data to visualize with polar cooridnates with is data that is periodical. Like the seasons. 

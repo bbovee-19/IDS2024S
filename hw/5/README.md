@@ -4,18 +4,18 @@
 **4** A common name for qualitative data is categorical data.  
 **5** An example of ordered data would be keeping track of weather patterns through out the year. Whatever month you start at, you have to go through the proper sequence of months. Otherwise the data doesn't make sense. An example of unordered data would be something like animals. There isn't any intrinsic order to sorting animals.   
 **6**  I'd say that both the month and day are discrete and ordered. Location is qualitative. Station ID is categorical and discrete. And temperture is continuous and ordered.    
-**7**    
+**7**  The axes themselves should also be the same variable that is being measured. Like measuring and comparing average rainfall of two different cities or states.  
 **8**    
-**9** The most appropiate and valid coordinate plane to use out of those three would be the black one, or the one that has e pointing out of it. Because it is the most uniform, and consistent sized cooridnate plane, which can help to uniformingly show and visualize data.   
+**9** They're all valid cooridnates, it would just depend on what you would want to show with them. The blue one could help to visualize entering a black hole.  
 **10** The best kind of data to visualize with polar cooridnates with is data that is periodical. Like the seasons.   
 **11** One color scale is a qualitative color scale. Such a scale is used to help distinguish discrete items that are unordered. 
 Another color scale is the sequential color scale. This is used to help identify data values that have an ordered sense to them. Like for instance temperature. Where the lighter shades indicate cooler temperatures, and darker shades indicate hotter temperatures. A third being a diverging scale, where data points with an order are represented in colors starting from a neutral point.  Like on a survey where it askes you to rate a restaurant, starting in the middle with "it was ok", and on either side it goes to "horrilbe", to "spectacular". Accent color scales are used when we want each data point, each category to have a meaning on it's own. To be able to show a bigger picture in all of our data, to be able to highlight each key factor that had role to play.   
-**12** We're representing age as a continuous thing. Which techinically it is, but people aren't thinking of their age in terms of year to the day to the hour and so on. Rather we think "I'm this many *years* old". It becomes much more categorical in that regard. So instead, to be able to visually represent it better would be to plot it as a histogram instead.   
-**13**  Classical, Frequentist, Bayesian, and Propensity.   
-**14**    
+**12** We have values starting before zero, which doens't make sense. How could you be less than zero years old?      
+**13**  The bottom one that is purple and green. Because due to some people of having red-green color blindness, it would be hard for them to differetiate between the top colors when being used.      
+**14**   
 **15**   
 **16**   
 **17**   
-**18** 
+**18** Classical, Frequentist, Bayesian, and Propensity.
 **19**   
 **20**   

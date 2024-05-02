@@ -36,7 +36,11 @@ My guess would be that the 1000th most populous city in Texas is somewhere to se
 My guess now for the 1000th most populous city would be around  1000.   
 
 **17**   
-**18** Classical, Frequentist, Bayesian, and Propensity.
+
+![Bayes Rule Venn Diagram](https://github.com/bbovee-19/IDS2024S/assets/157654765/0a7f2963-f74d-409d-9062-b8e8c70793d4)
+
+
+**18** Classical, Frequentist, Bayesian, and Propensity.   
 **19**   I only see a frog and a horse.   
 **20**   
 

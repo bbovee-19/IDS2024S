@@ -12,7 +12,15 @@
 Another color scale is the sequential color scale. This is used to help identify data values that have an ordered sense to them. Like for instance temperature. Where the lighter shades indicate cooler temperatures, and darker shades indicate hotter temperatures. A third being a diverging scale, where data points with an order are represented in colors starting from a neutral point.  Like on a survey where it askes you to rate a restaurant, starting in the middle with "it was ok", and on either side it goes to "horrilbe", to "spectacular". Accent color scales are used when we want each data point, each category to have a meaning on it's own. To be able to show a bigger picture in all of our data, to be able to highlight each key factor that had role to play.   
 **12** We have values starting before zero, which doens't make sense. How could you be less than zero years old?      
 **13**  The bottom one that is purple and green. Because due to some people of having red-green color blindness, it would be hard for them to differetiate between the top colors when being used.      
-**14**   
+**14**  1.  
+
+![Honolulu Graph](https://github.com/bbovee-19/IDS2024S/assets/157654765/c8005e61-5263-418e-b837-69f7d2447b36)     
+![Duluth Graph](https://github.com/bbovee-19/IDS2024S/assets/157654765/11631753-cf56-4794-b86d-2078ebee9399)    
+2. Average of Duluth - 40.4 F   
+Average of Honlulu - 77.4 F   
+3. Standard Dev. of Duluth - 21.4   
+Standard Dev. of Honolulu - 3.40 
+Therefore Honolulu has less flucuation.   
 **15**   
 **16**   
 **17**   

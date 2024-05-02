@@ -1,7 +1,7 @@
 **1** Aesthetics in data visualization are visuals that are used to represent quantifiable data. Some examples of aesthetics include graphs, shapes, different sized shapes, and even colors can be used to indicate differences in similar data.   
 **2** The two major classes of aesthetics are continuous, and non-continuous. Which are also more commonly refered to as discrete variables.  
-**3** The two major types of data are quantitative and qualitative. An example of quantitative data would be anything represented in numbers, like the number of people in the U.S. who smoke. An example of qualitative data would be sorting the number of smokers in the U.S. into age groups. While we would be counting how many are in each age range, we're still sorting them by a category of sorts. 
-**4** A common name for qualitative data is categorical data.  
+**3** The two major types of data are quantitative and qualitative. An example of quantitative data would be anything represented in numbers, like the number of people in the U.S. who smoke. An example of qualitative data would be sorting the number of smokers in the U.S. into age groups. While we would be counting how many are in each age range, we're still sorting them by a category of sorts.    
+**4** A common name for qualitative data is categorical data.    
 **5** An example of ordered data would be keeping track of weather patterns through out the year. Whatever month you start at, you have to go through the proper sequence of months. Otherwise the data doesn't make sense. An example of unordered data would be something like animals. There isn't any intrinsic order to sorting animals.   
 **6**  I'd say that both the month and day are discrete and ordered. Location is qualitative. Station ID is categorical and discrete. And temperture is continuous and ordered.    
 **7**  The axes themselves should also be the same variable that is being measured. Like measuring and comparing average rainfall of two different cities or states.  
@@ -21,9 +21,26 @@ Average of Honlulu - 77.4 F
 3. Standard Dev. of Duluth - 21.4   
 Standard Dev. of Honolulu - 3.40 
 Therefore Honolulu has less flucuation.   
-**15**   
+**15** 
+
+![Percipitation vs  Sunlight Scatterplot](https://github.com/bbovee-19/IDS2024S/assets/157654765/a570566b-a9ab-41ac-83cf-031e96bbc926)   
+ 
 **16**   
+
+![Chart](https://github.com/bbovee-19/IDS2024S/assets/157654765/8558edf0-f4db-4c4a-b38b-90dbf97cc320)    
+My guess would be that the 1000th most populous city in Texas is somewhere to several dozen to the hundreds.  
+
+**Visualization**  
+
+![Logarithmic Scale](https://github.com/bbovee-19/IDS2024S/assets/157654765/e9c31e6b-e059-4f8e-abd0-80e1758937fe)
+My guess now for the 1000th most populous city would be around  1000.   
+
 **17**   
 **18** Classical, Frequentist, Bayesian, and Propensity.
-**19**   
+**19**   I only see a frog and a horse.   
 **20**   
+
+
+![Screenshot 2024-05-02 152703](https://github.com/bbovee-19/IDS2024S/assets/157654765/ed6880c2-c9ee-41fa-8b33-b18c9563e0ad)
+
+
